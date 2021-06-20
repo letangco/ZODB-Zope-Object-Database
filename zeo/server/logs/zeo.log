@@ -52,3 +52,9 @@
 2021-06-20T08:04:55 (localhost:8090) disconnected
 2021-06-20T08:04:56 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
 2021-06-20T08:04:56 (localhost:8090) disconnected
+2021-06-20T10:00:40 (10968) opening storage '1' using FileStorage
+2021-06-20T10:00:40 Ignoring index for /home/colt/Desktop/zodb/demo/ZODB-Zope-Object-Database/zeo/server/database/Data.fs
+2021-06-20T10:00:40 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-20T10:00:40 listening on ('localhost', 8090)
+2021-06-20T10:19:03 (10968) terminated by SIGINT
+2021-06-20T10:19:03 closing storage '1'
