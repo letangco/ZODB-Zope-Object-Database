@@ -29,3 +29,26 @@
 2021-06-20T07:52:06 (localhost:8090) disconnected
 2021-06-20T07:52:07 Connected server protocol
 2021-06-20T07:52:07 received handshake 'Z5'
+2021-06-20T08:03:06 (6852) opening storage '1' using FileStorage
+2021-06-20T08:03:06 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-20T08:03:06 listening on ('localhost', 8090)
+2021-06-20T08:03:22 Connected server protocol
+2021-06-20T08:03:22 received handshake 'Z5'
+2021-06-20T08:03:41 Connected server protocol
+2021-06-20T08:03:41 received handshake 'Z5'
+2021-06-20T08:03:46 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-20T08:03:46 (localhost:8090) disconnected
+2021-06-20T08:03:47 Connected server protocol
+2021-06-20T08:03:47 received handshake 'Z5'
+2021-06-20T08:04:09 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-20T08:04:09 (localhost:8090) disconnected
+2021-06-20T08:04:10 Connected server protocol
+2021-06-20T08:04:10 received handshake 'Z5'
+2021-06-20T08:04:43 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-20T08:04:43 (localhost:8090) disconnected
+2021-06-20T08:04:44 Connected server protocol
+2021-06-20T08:04:44 received handshake 'Z5'
+2021-06-20T08:04:55 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-20T08:04:55 (localhost:8090) disconnected
+2021-06-20T08:04:56 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-20T08:04:56 (localhost:8090) disconnected
