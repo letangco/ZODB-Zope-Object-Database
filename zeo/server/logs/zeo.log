@@ -75,3 +75,14 @@
 2021-06-21T01:31:48 (localhost:8090) disconnected
 2021-06-21T01:31:49 (9349) terminated by SIGINT
 2021-06-21T01:31:49 closing storage '1'
+2021-06-21T20:39:25 (6828) opening storage '1' using FileStorage
+2021-06-21T20:39:25 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-21T20:39:25 listening on ('localhost', 8090)
+2021-06-21T20:42:09 Connected server protocol
+2021-06-21T20:42:09 received handshake 'Z5'
+2021-06-21T20:44:09 Connected server protocol
+2021-06-21T20:44:09 received handshake 'Z5'
+2021-06-21T20:45:07 (localhost:8090) disconnected
+2021-06-21T20:45:08 (localhost:8090) disconnected
+2021-06-21T20:48:48 (6828) terminated by SIGINT
+2021-06-21T20:48:48 closing storage '1'
