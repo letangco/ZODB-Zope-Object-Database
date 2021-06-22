@@ -91,3 +91,37 @@
 2021-06-22T16:42:21 received handshake 'Z5'
 2021-06-22T16:44:12 Connected server protocol
 2021-06-22T16:44:12 received handshake 'Z5'
+2021-06-20T10:00:40 (10968) opening storage '1' using FileStorage
+2021-06-20T10:00:40 Ignoring index for /home/colt/Desktop/zodb/demo/ZODB-Zope-Object-Database/zeo/server/database/Data.fs
+2021-06-20T10:00:40 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-20T10:00:40 listening on ('localhost', 8090)
+2021-06-20T10:19:03 (10968) terminated by SIGINT
+2021-06-20T10:19:03 closing storage '1'
+2021-06-20T23:14:51 (9349) opening storage '1' using FileStorage
+2021-06-20T23:14:51 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-20T23:14:51 listening on ('localhost', 8090)
+2021-06-20T23:43:37 Connected server protocol
+2021-06-20T23:43:37 received handshake 'Z5'
+2021-06-20T23:43:46 (localhost:8090) disconnected
+2021-06-20T23:44:01 Connected server protocol
+2021-06-20T23:44:01 received handshake 'Z5'
+2021-06-20T23:44:18 Connected server protocol
+2021-06-20T23:44:18 received handshake 'Z5'
+2021-06-21T01:19:40 (localhost:8090) disconnected
+2021-06-21T01:19:43 Connected server protocol
+2021-06-21T01:19:43 received handshake 'Z5'
+2021-06-21T01:31:47 (localhost:8090) disconnected
+2021-06-21T01:31:48 (localhost:8090) disconnected
+2021-06-21T01:31:49 (9349) terminated by SIGINT
+2021-06-21T01:31:49 closing storage '1'
+2021-06-21T20:39:25 (6828) opening storage '1' using FileStorage
+2021-06-21T20:39:25 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-21T20:39:25 listening on ('localhost', 8090)
+2021-06-21T20:42:09 Connected server protocol
+2021-06-21T20:42:09 received handshake 'Z5'
+2021-06-21T20:44:09 Connected server protocol
+2021-06-21T20:44:09 received handshake 'Z5'
+2021-06-21T20:45:07 (localhost:8090) disconnected
+2021-06-21T20:45:08 (localhost:8090) disconnected
+2021-06-21T20:48:48 (6828) terminated by SIGINT
+2021-06-21T20:48:48 closing storage '1'
