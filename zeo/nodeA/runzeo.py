@@ -19,7 +19,7 @@ print("###########starting ZEO Server###########")
 # root=conn.root()
 # print("established connection")
 
-connection = ZEO.connection(('localhost',8090))
+connection = ZEO.connection(('192.168.1.164',8090))
 root = connection.root()
 
 # end initial connection

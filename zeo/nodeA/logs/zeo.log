@@ -52,3 +52,42 @@
 2021-06-20T08:04:55 (localhost:8090) disconnected
 2021-06-20T08:04:56 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
 2021-06-20T08:04:56 (localhost:8090) disconnected
+2021-06-22T13:16:56 (21016) opening storage '1' using FileStorage
+2021-06-22T13:16:57 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-22T13:16:57 listening on ('192.168.1.164', 8090)
+2021-06-22T13:17:33 Connected server protocol
+2021-06-22T13:17:33 received handshake 'Z5'
+2021-06-22T13:17:45 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-22T13:17:45 (192.168.1.164:8090) disconnected
+2021-06-22T13:18:13 closing storage '1'
+2021-06-22T13:18:52 (11244) opening storage '1' using FileStorage
+2021-06-22T13:18:52 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-22T13:18:52 listening on ('192.168.1.164', 8090)
+2021-06-22T13:18:52 Connected server protocol
+2021-06-22T13:18:52 received handshake 'Z5'
+2021-06-22T13:20:21 Connected server protocol
+2021-06-22T13:20:21 received handshake 'Z5'
+2021-06-22T13:20:34 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-22T13:20:34 (192.168.1.164:8090) disconnected
+2021-06-22T13:20:35 Disconnected ConnectionResetError:[WinError 64] The specified network name is no longer available
+2021-06-22T13:20:35 (192.168.1.164:8090) disconnected
+2021-06-22T13:20:35 closing storage '1'
+2021-06-22T15:53:28 (4716) opening storage '1' using FileStorage
+2021-06-22T15:53:28 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-22T15:53:28 listening on ('192.168.1.164', 8090)
+2021-06-22T15:53:28 Connected server protocol
+2021-06-22T15:53:28 received handshake 'Z5'
+2021-06-22T15:53:33 Connected server protocol
+2021-06-22T15:53:33 received handshake 'Z5'
+2021-06-22T16:37:45 closing storage '1'
+2021-06-22T16:39:41 (15948) opening storage '1' using FileStorage
+2021-06-22T16:39:41 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-22T16:39:41 listening on ('192.168.1.164', 8090)
+2021-06-22T16:42:10 closing storage '1'
+2021-06-22T16:42:20 (19260) opening storage '1' using FileStorage
+2021-06-22T16:42:20 StorageServer created RW with storages: 1:RW:./database/Data.fs
+2021-06-22T16:42:20 listening on ('192.168.1.164', 8090)
+2021-06-22T16:42:21 Connected server protocol
+2021-06-22T16:42:21 received handshake 'Z5'
+2021-06-22T16:44:12 Connected server protocol
+2021-06-22T16:44:12 received handshake 'Z5'
